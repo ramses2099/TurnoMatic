@@ -15,5 +15,7 @@ namespace Com.Hit.TurnoMatic.Model
         public int IdEstado { get; set; }
         public DateTime FechaSistema { get; set; }
 
+
+
     }
 }
